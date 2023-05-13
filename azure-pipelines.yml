@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: 'mylocalpcagent'
+pool: mylocalpcagent
 
 variables:
   solution: '**/*.sln'
