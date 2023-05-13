@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: mylocalpcagent
+pool: Default
 
 variables:
   solution: '**/*.sln'
